@@ -4,4 +4,5 @@
 -Displays data including title, author, cover, and publication year
 #How to run
 -react and react-dom dependancies included in JS file from CDN
--ensure a fork of https://repl.it/@jmurphy2404/Goodreads-Server-Express#index.js is running
+-Ensure a fork of https://repl.it/@jmurphy2404/Goodreads-Server-Express#index.js is running
+-Above can be found at https://github.com/jmurphy2404/goodreadsAPIRunkit#readme
